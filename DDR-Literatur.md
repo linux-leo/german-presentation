@@ -10,7 +10,7 @@ DDR-Schriftsteller
     - Alle Werke mussten thematisch einen Bezug zum Volk haben, "volksverbunden" sein.
 - Die Lage der Schriftsteller in der Gesellschaft war sehr instabil, in einigen Aspekten hat man versucht sie zu priviligieren, in anderen sie zu disziplinieren
 - Zensur als "Kampf gegen den Formalismus"
-- Verbot aller Werke, bei der die "Form" wichtiger als der Inhalt war.
+  - Verbot aller Werke, bei der die "Form" wichtiger als der Inhalt war.
 - Wichtige Vertreter waren Bertolt Brecht, Christa Wolf, Heiner Müller, Stefan Heym, Christoph Hein, Franz Fühmann und weitere
 
 Quellen:
