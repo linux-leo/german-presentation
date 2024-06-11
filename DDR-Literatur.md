@@ -1,4 +1,4 @@
-DDR-Schriftsteller
+# DDR-Literatur
 
 - Schriftsteller sollten sich aktiv an der Umgestaltung der Gesellschaft beteiligen.
   - Es gab tatsächliche Anhänger des Sytems und die Mitläufer
